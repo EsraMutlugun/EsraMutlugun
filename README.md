@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EsraMutlugun
+- 👋 Hi, I’m @Esra
 - 👀 I’m interested in something cool
 - 🌱 I’m currently learning Python, Java, Selenium
 - 💞️ I’m looking to collaborate on 
